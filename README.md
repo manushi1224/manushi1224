@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manushi1224&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manushi1224&theme=react&hide_border=false&include_all_commits=false&count_private=true"></img>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manushi1224&theme=react&hide_border=false"></img>
-</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=manushi1224&theme=react&hide_border=false&include_all_commits=false&count_private=true"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manushi1224&theme=react&hide_border=false"></img>
+
